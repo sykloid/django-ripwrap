@@ -1,0 +1,14 @@
+================
+ django-ripwrap
+================
+
+``django-ripwrap`` is a wrapper for the Restructured Text tool ReSTinPeace.
+
+Features
+========
+
+Todo
+====
+
+* Provide a drop-in replacement for ``django.contrib.markup.restructuredtext`` .
+* Expose all of ReSTinPeace's settings to Django projects.
